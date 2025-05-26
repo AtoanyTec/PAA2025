@@ -7,9 +7,10 @@
   <img src="https://img.shields.io/badge/Nivel-Preuniversitario-brightgreen" alt="Nivel">
 </div>
 
+---
+
 Este es un taller de 4 días para dominar la Prueba de Aptitud Académica en Matemáticas que se imparte a estudiantes de preparatoria y profesional
 
----
 
 ## 📋 Estructura del Curso  
 Plan optimizado para **8 horas totales** (4 días × 2 horas/día), centrado en los temas clave de la PAA:
