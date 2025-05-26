@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/Nivel-Preuniversitario-brightgreen" alt="Nivel">
 </div>
 
+Este es un taller de 4 días para dominar la Prueba de Aptitud Académica en Matemáticas que se imparte a estudiantes de preparatoria y profesional
+
 ---
 
 ## 📋 Estructura del Curso  
