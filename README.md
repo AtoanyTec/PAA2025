@@ -25,27 +25,14 @@ Plan optimizado para **8 horas totales** (4 días × 2 horas/día), centrado en 
 ### **Día 1: Aritmética + Álgebra**  
 ✔️ Dominar cálculos rápidos con decimales y porcentajes.  
 ✔️ Resolver ecuaciones lineales y sistemas de ecuaciones.  
-```python
-# Ejemplo de problema PAA (Álgebra):
-3x + 5 = 20  # Solución: x = 5
-```
 
 ### **Día 2: Geometría**  
 ✔️ Aplicar fórmulas de áreas y volúmenes.  
 ✔️ Usar el teorema de Pitágoras en problemas prácticos.  
-```latex
-% Fórmula clave:
-Área\ triángulo = \frac{base \times altura}{2}
-```
 
 ### **Día 3: Probabilidad**  
 ✔️ Calcular probabilidades simples y compuestas.  
 ✔️ Diferenciar eventos dependientes e independientes.  
-```plaintext
-Ejemplo PAA:
-Probabilidad de sacar 2 ases seguidos (sin reemplazo) en un mazo de 52 cartas:
-P = (4/52) × (3/51) ≈ 0.45%
-```
 
 ### **Día 4: Simulacro Full**  
 ✔️ Practicar con tiempo real (1 minuto/pregunta).  
