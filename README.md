@@ -1,5 +1,5 @@
 # 🚀 Taller de Preparación Intensiva PAA (Matemáticas)  
-**Para Preparatoria y Profesional
+**Para Preparatoria y Profesional**
 
 <div align="center">
   <img src="https://img.shields.io/badge/Enfoque-Matemáticas-blue" alt="Enfoque">
