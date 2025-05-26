@@ -1,5 +1,5 @@
-# 🚀 Preparación Intensiva PAA (Matemáticas)  
-**Curso express de 4 días para dominar la Prueba de Aptitud Académica en Matemáticas**  
+# 🚀 Taller de Preparación Intensiva PAA (Matemáticas)  
+**Para Preparatoria y Profesional
 
 <div align="center">
   <img src="https://img.shields.io/badge/Enfoque-Matemáticas-blue" alt="Enfoque">
