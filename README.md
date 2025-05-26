@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Enfoque-Matemáticas-blue" alt="Enfoque">
   <img src="https://img.shields.io/badge/Duración-8_Horas-orange" alt="Duración">
-  <img src="https://img.shields.io/badge/Nivel-Secundaria_Preuniversitario-brightgreen" alt="Nivel">
+  <img src="https://img.shields.io/badge/Nivel-Preuniversitario-brightgreen" alt="Nivel">
 </div>
 
 ---
