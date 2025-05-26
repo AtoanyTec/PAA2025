@@ -63,5 +63,5 @@ Plan optimizado para **8 horas totales** (4 días × 2 horas/día), centrado en 
 
 ---
 <div align="center">
-  <sub>Creado con ❤️ para estudiantes que buscan éxito en la PAA.</sub>
+  <sub>Creado con 💙 para estudiantes que buscan éxito en la PAA para su ingreso al Tecnológico de Monterrey.</sub>
 </div>
