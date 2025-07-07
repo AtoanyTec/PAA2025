@@ -12,7 +12,7 @@ B) 360
 C) 405  
 D) 540  
 
-**✅ Respuesta correcta:** **C) 405**
+**✅ Respuesta correcta:** **A) 270**
 
 ---
 
