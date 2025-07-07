@@ -82,7 +82,7 @@ $$3x^3 - 12x^2 - 15x$$
 
 #### **🔢 Ejercicio 8**  
 **📝 Evalúa la función compuesta:**  
-**Dado** $f(x) = 2x-1$ **y** $g(x) = x^2+3$, **halla** $(f \circ g)(2)$  
+**Dado** $f(x) = 2x-1$ **y** $g(x) = x^2+3$, **halla** $(f(g(2))$  
 
 - [ ] A) 15  
 - [x] B) 13  
