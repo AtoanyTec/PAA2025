@@ -8,7 +8,7 @@
 
 
 - [ ] A) 7.2  
-- [x] B) 3.5  
+- [ ] B) 3.5  
 - [ ] C) 5.3  
 - [ ] D) 2.7  
 
@@ -18,7 +18,7 @@
 **📝 Simplifica usando exponentes racionales:**  
 $$\sqrt[3]{8x^6 y^{12}}$$  
 
-- [x] A) $2x^2 y^4$  
+- [ ] A) $2x^2 y^4$  
 - [ ] B) $4x^3 y^6$  
 - [ ] C) $8x^2 y^4$  
 - [ ] D) $2xy^3$  
@@ -30,7 +30,7 @@ $$\sqrt[3]{8x^6 y^{12}}$$
 $$\log_2(x-3) + \log_2(x+1) = 3$$  
 
 - [ ] A) $x = 1$  
-- [x] B) $x = 5$  
+- [ ] B) $x = 5$  
 - [ ] C) $x = 7$  
 - [ ] D) $x = -2$  
 
@@ -41,7 +41,7 @@ $$\log_2(x-3) + \log_2(x+1) = 3$$
 $$3x^3 - 12x^2 - 15x$$  
 
 - [ ] A) $3x(x+1)(x-5)$  
-- [x] B) $3x(x+1)(x-5)$  
+- [ ] B) $3x(x+1)(x-5)$  
 - [ ] C) $x(3x-5)(x+3)$  
 - [ ] D) $3(x^2-5)(x+1)$  
 
@@ -51,7 +51,7 @@ $$3x^3 - 12x^2 - 15x$$
 **📝** La suma de las edades de Ana y Beatriz es 48 años. Si Ana es 6 años mayor que Beatriz, ¿cuál es la edad de Beatriz?  
 
 - [ ] A) 18 años  
-- [x] B) 21 años  
+- [ ] B) 21 años  
 - [ ] C) 24 años  
 - [ ] D) 27 años  
 
@@ -61,7 +61,7 @@ $$3x^3 - 12x^2 - 15x$$
 **📝** Si $3x - \frac{2}{5} = \frac{3}{10}$, ¿cuál es el valor de $x$?  
 
 - [ ] A) $\frac{1}{6}$  
-- [x] B) $\frac{7}{30}$  
+- [ ] B) $\frac{7}{30}$  
 - [ ] C) $\frac{1}{3}$  
 - [ ] D) $\frac{5}{12}$  
 
@@ -71,7 +71,7 @@ $$3x^3 - 12x^2 - 15x$$
 **📝** ¿Cuál es la factorización correcta de $x^2 - 5x - 24$?  
 
 - [ ] A) $(x - 3)(x + 8)$  
-- [x] B) $(x + 3)(x - 8)$  
+- [ ] B) $(x + 3)(x - 8)$  
 - [ ] C) $(x - 4)(x + 6)$  
 - [ ] D) $(x - 12)(x + 2)$  
 
@@ -83,7 +83,7 @@ $$3x^3 - 12x^2 - 15x$$
 **Dado** $f(x) = 2x-1$ **y** $g(x) = x^2+3$, **halla** $f(g(2))$  
 
 - [ ] A) 15  
-- [x] B) 13  
+- [ ] B) 13  
 - [ ] C) 21  
 - [ ] D) 7  
 
@@ -94,7 +94,7 @@ $$3x^3 - 12x^2 - 15x$$
 $$5^{2x-1} = 125$$  
 
 - [ ] A) $x = \frac{4}{5}$  
-- [x] B) $x = 2$  
+- [ ] B) $x = 2$  
 - [ ] C) $x = 1$  
 - [ ] D) $x = \frac{3}{2}$  
 
@@ -105,7 +105,7 @@ $$5^{2x-1} = 125$$
 $$f(x) = \sqrt{6x-12} + \frac{1}{x-4}$$  
 
 - [ ] A) $[2, \infty)$  
-- [x] B) $[2, 4) \cup (4, \infty)$  
+- [ ] B) $[2, 4) \cup (4, \infty)$  
 - [ ] C) $(4, \infty)$  
 - [ ] D) Todos los reales  
 
