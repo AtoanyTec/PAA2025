@@ -50,11 +50,6 @@ $$2x^3 - 3x^2 + 4x - 5$$
 
 #### **🔢 Ejercicio 5**  
 **📝 Resuelve el sistema:**  
-$$\begin{cases} 
-2x + y = 5 \\ 
-x - y = 1 
-\end{cases}$$
-
 ![imagen](https://github.com/user-attachments/assets/25294ab2-5b0b-49bd-8de1-4301f619eedf)
 
 
