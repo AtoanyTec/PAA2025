@@ -17,7 +17,7 @@ D) 540
 ---
 
 ## ✏️ Ejercicio 2
-¿Cuál es el valor de \( x \) si \( \frac{3}{4}x - 5 = 7 \)?
+¿Cuál es el valor de $\( x \)$ si \( \frac{3}{4}x - 5 = 7 \)?
 $x$
 
 A) 6  
