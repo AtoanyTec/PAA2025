@@ -4,7 +4,8 @@
 
 #### **🔢 Ejercicio 1**  
 **📝 Resuelve el sistema no lineal:**  
-$$\begin{cases} x + y = 5 \\ x^2 + y^2 = 17 \end{cases}$$  
+![imagen](https://github.com/user-attachments/assets/b92754a4-857c-442f-abf7-ebe347bc863e)
+
 
 - [ ] A) (1,4) y (4,1)  
 - [x] B) (1,4) y (4,1)  
