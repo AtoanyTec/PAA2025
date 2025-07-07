@@ -18,7 +18,7 @@ D) 540
 
 ## ✏️ Ejercicio 2
 ¿Cuál es el valor de \( x \) si \( \frac{3}{4}x - 5 = 7 \)?
-$\x$
+$x$
 
 A) 6  
 B) 8  
