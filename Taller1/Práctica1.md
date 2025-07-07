@@ -29,7 +29,7 @@ D) 16
 ---
 
 ## ✏️ Ejercicio 3
-Luis gasta \( \frac{2}{5} \) de su sueldo en renta, \( \frac{1}{4} \) en comida y \( \frac{1}{10} \) en transporte. ¿Qué fracción de su sueldo le queda?
+Luis gasta $\( \frac{2}{5} \)$ de su sueldo en renta, $\( \frac{1}{4} \)$ en comida y $\( \frac{1}{10} \)$ en transporte. ¿Qué fracción de su sueldo le queda?
 
 A) \( \frac{3}{20} \)  
 B) \( \frac{1}{5} \)  
