@@ -6,7 +6,7 @@ B) 36
 C) 48  
 D) 96  
 
-**✅ Respuesta correcta:** **C) 48**
+**✅ Respuesta correcta:** **A) 24**
 
 ---
 
