@@ -93,12 +93,12 @@ D) 18
 ---
 
 ## ✏️ Ejercicio 10
-En una progresión aritmética cuyo primer término es 7 y cuya diferencia común es 4, ¿cuál es el término **25**?
+Un tanque se llena con una válvula A en 6 horas y con una válvula B en 4 horas. Si ambas válvulas se abren al mismo tiempo, ¿cuánto tardan en llenar el tanque juntas?
 
-A) 99  
-B) 101  
-C) 103  
-D) 105  
+A) 2.4 horas  
+B) 2.5 horas  
+C) 3 horas  
+D) 3.5 horas  
 
 ---
 
