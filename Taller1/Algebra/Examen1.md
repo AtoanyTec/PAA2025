@@ -2,7 +2,7 @@
 
 ---
 
-#### **🔢 Ejercicio 6**  
+#### **🔢 Ejercicio 1**  
 **📝 Resuelve para x:**  
 $$5(x - 3) = 2x + 6$$  
 
@@ -11,11 +11,9 @@ $$5(x - 3) = 2x + 6$$
 - [ ] C) $x = 9$  
 - [ ] D) $x = 11$  
 
-**✅ Respuesta correcta:** **B**  
-
 ---
 
-#### **🔢 Ejercicio 7**  
+#### **🔢 Ejercicio 2**  
 **📝 Simplifica:**  
 $$\frac{12x^3 y^2}{4x y^5}$$  
 
@@ -24,11 +22,9 @@ $$\frac{12x^3 y^2}{4x y^5}$$
 - [ ] C) $8x^2 y^3$  
 - [ ] D) $3x^3 / y^2$  
 
-**✅ Respuesta correcta:** **B**  
-
 ---
 
-#### **🔢 Ejercicio 8**  
+#### **🔢 Ejercicio 3**  
 **📝 Factoriza:**  
 $$x^2 + 7x + 10$$  
 
@@ -37,11 +33,10 @@ $$x^2 + 7x + 10$$
 - [ ] C) $(x - 5)(x - 2)$  
 - [ ] D) $(x + 7)(x + 3)$  
 
-**✅ Respuesta correcta:** **A**  
 
 ---
 
-#### **🔢 Ejercicio 9**  
+#### **🔢 Ejercicio 4**  
 **📝 Evalúa si x = -1:**  
 $$2x^3 - 3x^2 + 4x - 5$$  
 
@@ -50,11 +45,10 @@ $$2x^3 - 3x^2 + 4x - 5$$
 - [ ] C) -6  
 - [ ] D) 10  
 
-**✅ Respuesta correcta:** **B**  
 
 ---
 
-#### **🔢 Ejercicio 10**  
+#### **🔢 Ejercicio 5**  
 **📝 Resuelve el sistema:**  
 $$\begin{cases} 2x + y = 5 \\ x - y = 1 \end{cases}$$  
 
@@ -63,11 +57,10 @@ $$\begin{cases} 2x + y = 5 \\ x - y = 1 \end{cases}$$
 - [ ] C) $(3, -1)$  
 - [ ] D) $(0, 5)$  
 
-**✅ Respuesta correcta:** **A**  
 
 ---
 
-#### **🔢 Ejercicio 11**  
+#### **🔢 Ejercicio 6**  
 **📝 Desigualdad:**  
 $$-3x + 7 > 16$$  
 
@@ -76,11 +69,9 @@ $$-3x + 7 > 16$$
 - [ ] C) $x > 3$  
 - [ ] D) $x < 3$  
 
-**✅ Respuesta correcta:** **B**  
-
 ---
 
-#### **🔢 Ejercicio 12**  
+#### **🔢 Ejercicio 7**  
 **📝 Expande:**  
 $$(2x - 3)^2$$  
 
@@ -89,11 +80,10 @@ $$(2x - 3)^2$$
 - [ ] C) $4x^2 + 12x - 9$  
 - [ ] D) $2x^2 - 12x + 9$  
 
-**✅ Respuesta correcta:** **B**  
 
 ---
 
-#### **🔢 Ejercicio 13**  
+#### **🔢 Ejercicio 8**  
 **📝 Encuentra la pendiente entre (2, 4) y (6, 10):**  
 
 - [ ] A) 1  
@@ -101,11 +91,10 @@ $$(2x - 3)^2$$
 - [ ] C) 2  
 - [ ] D) 2.5  
 
-**✅ Respuesta correcta:** **B**  
 
 ---
 
-#### **🔢 Ejercicio 14**  
+#### **🔢 Ejercicio 9**  
 **📝 Resuelve:**  
 $$\frac{x}{3} + \frac{x}{4} = 14$$  
 
@@ -114,11 +103,10 @@ $$\frac{x}{3} + \frac{x}{4} = 14$$
 - [x] C) 24  
 - [ ] D) 28  
 
-**✅ Respuesta correcta:** **C**  
 
 ---
 
-#### **🔢 Ejercicio 15**  
+#### **🔢 Ejercicio 10**  
 **📝 ¿Qué expresión es equivalente a $5^{2x + 1}$?**  
 
 - [ ] A) $25^x + 1$  
@@ -126,14 +114,7 @@ $$\frac{x}{3} + \frac{x}{4} = 14$$
 - [ ] C) $10^x + 5$  
 - [ ] D) $5^{2x} + 5$  
 
-**✅ Respuesta correcta:** **B**  
 
 ---
-
-### 🔍 **Tips para resolverlos:**  
-1. **Ecuaciones lineales** → Aísla la variable paso a paso.  
-2. **Exponentes** → Recuerda que $a^{m+n} = a^m \cdot a^n$.  
-3. **Sistemas** → Usa sustitución o eliminación.  
-4. **Desigualdades** → Invierte el signo al multiplicar/dividir por negativo.  
 
 ✨ **¡Domina estos ejercicios para ser un experto en álgebra!** ✨
