@@ -12,8 +12,6 @@
 - [ ] C) 5.3  
 - [ ] D) 2.7  
 
-**✅ Respuesta correcta:** **B** *(Solución: Sustitución y fórmula cuadrática)*  
-
 ---
 
 #### **🔢 Ejercicio 2**  
@@ -25,8 +23,6 @@ $$\sqrt[3]{8x^6 y^{12}}$$
 - [ ] C) $8x^2 y^4$  
 - [ ] D) $2xy^3$  
 
-**✅ Respuesta correcta:** **A** *(Propiedad: $\sqrt[n]{a^m} = a^{m/n}$)*  
-
 ---
 
 #### **🔢 Ejercicio 3**  
@@ -37,8 +33,6 @@ $$\log_2(x-3) + \log_2(x+1) = 3$$
 - [x] B) $x = 5$  
 - [ ] C) $x = 7$  
 - [ ] D) $x = -2$  
-
-**✅ Respuesta correcta:** **B** *(Aplica propiedad $\log_b A + \log_b B = \log_b(AB)$)*  
 
 ---
 
