@@ -48,7 +48,7 @@ B) 25%
 C) 30%  
 D) 33.33%  
 
-**✅ Respuesta correcta:** **D) 33.33%**
+**✅ Respuesta correcta:** **A) 20%**
 
 ---
 
