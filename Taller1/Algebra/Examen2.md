@@ -60,15 +60,17 @@ $$3x^3 - 12x^2 - 15x$$
 ---
 
 #### **🔢 Ejercicio 6**  
-**📝 Descompón en fracciones parciales:**  
-$$\frac{3x+5}{(x-1)(x+2)}$$  
+**📝** Si $3x - \frac{2}{5} = \frac{3}{10}$, ¿cuál es el valor de $x$?  
 
-- [ ] A) $\frac{1}{x-1} + \frac{2}{x+2}$  
-- [x] B) $\frac{8/3}{x-1} + \frac{1/3}{x+2}$  
-- [ ] C) $\frac{2}{x-1} - \frac{1}{x+2}$  
-- [ ] D) $\frac{5}{x-1} - \frac{3}{x+2}$  
+- [ ] A) $\frac{1}{6}$  
+- [x] B) $\frac{7}{30}$  
+- [ ] C) $\frac{1}{3}$  
+- [ ] D) $\frac{5}{12}$  
 
-**✅ Respuesta correcta:** **B** *(Sistema de ecuaciones: $A(x+2) + B(x-1) = 3x+5$)*  
+**✅ Respuesta correcta:** **B**  
+*(Solución:  
+1. Sumar $\frac{2}{5}$ a ambos lados: $3x = \frac{7}{10}$  
+2. Dividir entre 3: $x = \frac{7}{30}$)* 
 
 ---
 
