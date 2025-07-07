@@ -100,8 +100,6 @@ $$5^{2x-1} = 125$$
 - [ ] C) $x = 1$  
 - [ ] D) $x = \frac{3}{2}$  
 
-**✅ Respuesta correcta:** **B** *(Escribe 125 como $5^3$ e iguala exponentes)*  
-
 ---
 
 #### **🔢 Ejercicio 10**  
