@@ -36,7 +36,7 @@ B) $\( \frac{1}{5} \)$
 C) $\( \frac{9}{20} \)$  
 D) $\( \frac{7}{20} \)$  
 
-**✅ Respuesta correcta:** **A) \( \frac{3}{20} \)**
+**✅ Respuesta correcta:** **A) $\( \frac{3}{20} \)$**
 
 ---
 
