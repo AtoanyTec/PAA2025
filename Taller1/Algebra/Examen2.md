@@ -57,12 +57,6 @@ $$3x^3 - 12x^2 - 15x$$
 - [ ] C) 24 años  
 - [ ] D) 27 años  
 
-**✅ Respuesta correcta:** **B**  
-*(Solución:  
-1. Sea $x$ = edad de Beatriz  
-2. Ecuación: $x + (x + 6) = 48$  
-3. Resolviendo: $2x = 42$ → $x = 21$)*  
-
 ---
 
 #### **🔢 Ejercicio 6**  
