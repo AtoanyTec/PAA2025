@@ -3,7 +3,7 @@
 ---
 
 #### **🔢 Ejercicio 1**  
-**📝 Resuelve el sistema no lineal:**  
+**📝 Encuentra y:**  
 ![imagen](https://github.com/user-attachments/assets/b92754a4-857c-442f-abf7-ebe347bc863e)
 
 
