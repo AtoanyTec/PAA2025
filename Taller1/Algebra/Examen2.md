@@ -67,11 +67,6 @@ $$3x^3 - 12x^2 - 15x$$
 - [ ] C) $\frac{1}{3}$  
 - [ ] D) $\frac{5}{12}$  
 
-**✅ Respuesta correcta:** **B**  
-*(Solución:  
-1. Sumar $\frac{2}{5}$ a ambos lados: $3x = \frac{7}{10}$  
-2. Dividir entre 3: $x = \frac{7}{30}$)* 
-
 ---
 
 #### **🔢 Ejercicio 7**  
