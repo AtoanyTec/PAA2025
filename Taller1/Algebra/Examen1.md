@@ -50,7 +50,10 @@ $$2x^3 - 3x^2 + 4x - 5$$
 
 #### **🔢 Ejercicio 5**  
 **📝 Resuelve el sistema:**  
-$$\begin{cases} 2x + y = 5 \\ x - y = 1 \end{cases}$$  
+$$\begin{cases} 
+2x + y = 5 \\ 
+x - y = 1 
+\end{cases}$$  
 
 - [x] A) $(2, 1)$  
 - [ ] B) $(1, 2)$  
