@@ -55,6 +55,9 @@ $$\begin{cases}
 x - y = 1 
 \end{cases}$$
 
+![imagen](https://github.com/user-attachments/assets/25294ab2-5b0b-49bd-8de1-4301f619eedf)
+
+
 - [x] A) $(2, 1)$  
 - [ ] B) $(1, 2)$  
 - [ ] C) $(3, -1)$  
