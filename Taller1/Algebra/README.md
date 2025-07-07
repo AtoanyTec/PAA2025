@@ -15,7 +15,7 @@ Antes de comenzar a practicar, retomaremos algunos puntos importantes: ⚠️�
 
 ### √ Raíces y Potencias
 - Valor de raíces y su fundamento:  
-  - \( \sqrt{100} = 10 \) porque \( (10)^2 = 100 \) 🔟  
+  - $\sqrt{100} = 10 \) porque \( (10)^2 = 100$ 🔟  
   - \( \sqrt[3]{8} = 2 \) porque \( (2)^3 = 8 \) 🫷  
   - \( \sqrt[3]{y^6} = y^2 \) porque \( (y^2)^3 = y^6 \) *(el exponente se divide entre el índice del radical)*. ➗
 
