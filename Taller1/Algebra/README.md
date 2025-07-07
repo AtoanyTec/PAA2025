@@ -12,6 +12,7 @@ Antes de comenzar a practicar, retomaremos algunos puntos importantes: ⚠️�
 - Cualquier entero positivo que no sea primo puede descomponerse en factores primos.  
   **Ejemplo:**  
   $\ 27 = 9 \times 3 = 3 \times 3 \times 3 \$ 🔄
+  $27 = 9 \times 3 = 3 \times 3 \times 3$
 
 ### √ Raíces y Potencias
 - Valor de raíces y su fundamento:  
