@@ -77,8 +77,6 @@ $$3x^3 - 12x^2 - 15x$$
 - [ ] C) $(x - 4)(x + 6)$  
 - [ ] D) $(x - 12)(x + 2)$  
 
-**✅ Respuesta correcta:** **B**  
-*(Solución: Buscar números que multipliquen a -24 y sumen -5: $3$ y $-8$)* 
 
 ---
 
