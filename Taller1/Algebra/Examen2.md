@@ -70,15 +70,15 @@ $$3x^3 - 12x^2 - 15x$$
 ---
 
 #### **🔢 Ejercicio 7**  
-**📝 Resuelve la inecuación racional:**  
-$$\frac{x+4}{x-2} \geq 0$$  
+**📝** ¿Cuál es la factorización correcta de $x^2 - 5x - 24$?  
 
-- [ ] A) $(-\infty, -4] \cup (2, \infty)$  
-- [x] B) $(-\infty, -4] \cup (2, \infty)$  
-- [ ] C) $[-4, 2)$  
-- [ ] D) $(-4, 2]$  
+- [ ] A) $(x - 3)(x + 8)$  
+- [x] B) $(x + 3)(x - 8)$  
+- [ ] C) $(x - 4)(x + 6)$  
+- [ ] D) $(x - 12)(x + 2)$  
 
-**✅ Respuesta correcta:** **B** *(Prueba intervalos críticos $x=-4$ y $x=2$)*  
+**✅ Respuesta correcta:** **B**  
+*(Solución: Buscar números que multipliquen a -24 y sumen -5: $3$ y $-8$)* 
 
 ---
 
