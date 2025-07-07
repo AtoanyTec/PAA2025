@@ -89,7 +89,7 @@ D) \$390
 ## ✏️ Ejercicio 9
 ¿Cuál es el resultado de $\( 15 - 3) (2 + 4 \)$?
 
-A) 10  
+A) 72  
 B) 13  
 C) 17  
 D) 20  
