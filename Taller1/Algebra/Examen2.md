@@ -7,10 +7,10 @@
 ![imagen](https://github.com/user-attachments/assets/b92754a4-857c-442f-abf7-ebe347bc863e)
 
 
-- [ ] A) (1,4) y (4,1)  
-- [x] B) (1,4) y (4,1)  
-- [ ] C) (2,3) y (3,2)  
-- [ ] D) (0,5) y (5,0)  
+- [ ] A) 7.2  
+- [x] B) 3.5  
+- [ ] C) 5.3  
+- [ ] D) 2.7  
 
 **✅ Respuesta correcta:** **B** *(Solución: Sustitución y fórmula cuadrática)*  
 
