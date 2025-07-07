@@ -45,8 +45,6 @@ $$3x^3 - 12x^2 - 15x$$
 - [ ] C) $x(3x-5)(x+3)$  
 - [ ] D) $3(x^2-5)(x+1)$  
 
-**✅ Respuesta correcta:** **B** *(Primero factor común, luego trinomio)*  
-
 ---
 
 #### **🔢 Ejercicio 5**  
@@ -110,7 +108,5 @@ $$f(x) = \sqrt{6x-12} + \frac{1}{x-4}$$
 - [x] B) $[2, 4) \cup (4, \infty)$  
 - [ ] C) $(4, \infty)$  
 - [ ] D) Todos los reales  
-
-**✅ Respuesta correcta:** **B** *(Restricciones: $6x-12 \geq 0$ y $x-4 \neq 0$)*  
 
 ---
