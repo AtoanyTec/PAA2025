@@ -89,8 +89,6 @@ $$3x^3 - 12x^2 - 15x$$
 - [ ] C) 21  
 - [ ] D) 7  
 
-**✅ Respuesta correcta:** **B** *(Solución: $f(g(2)) = f(7) = 13$)*  
-
 ---
 
 #### **🔢 Ejercicio 9**  
