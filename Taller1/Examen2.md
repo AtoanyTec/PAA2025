@@ -87,7 +87,7 @@ D) \$390
 ---
 
 ## ✏️ Ejercicio 9
-¿Cuál es el resultado de $\( 15 - 3 X 2 + 4 \)$?
+¿Cuál es el resultado de $\( 15 - 3) (2 + 4 \)$?
 
 A) 10  
 B) 13  
