@@ -50,16 +50,18 @@ $$3x^3 - 12x^2 - 15x$$
 ---
 
 #### **🔢 Ejercicio 5**  
-**📝 Calcula el discriminante de:**  
-$$2x^2 - 5x + k = 0$$  
-**Para que tenga raíces reales iguales**  
+**📝** La suma de las edades de Ana y Beatriz es 48 años. Si Ana es 6 años mayor que Beatriz, ¿cuál es la edad de Beatriz?  
 
-- [ ] A) $k = 8$  
-- [x] B) $k = \frac{25}{8}$  
-- [ ] C) $k = 5$  
-- [ ] D) $k = -5$  
+- [ ] A) 18 años  
+- [x] B) 21 años  
+- [ ] C) 24 años  
+- [ ] D) 27 años  
 
-**✅ Respuesta correcta:** **B** *(Discriminante $D = b^2 - 4ac = 0$)*  
+**✅ Respuesta correcta:** **B**  
+*(Solución:  
+1. Sea $x$ = edad de Beatriz  
+2. Ecuación: $x + (x + 6) = 48$  
+3. Resolviendo: $2x = 42$ → $x = 21$)*  
 
 ---
 
