@@ -3,13 +3,12 @@
 ---
 
 ## ✏️ Ejercicio 1
-¿Cuál es el resultado de  
-$\[ \frac{2}{3} + \frac{3}{5}\; \Bigg/ \; \frac14 \;? \]$
+En una tienda, por cada 3 camisetas que compras te dan una gratis. Si cada camiseta cuesta \$150, ¿cuál es el **precio promedio por camiseta** si compras 12 camisetas (incluyendo las gratuitas)?
 
-A) \( \frac{19}{5} \)  
-B) \( \frac{76}{15} \)  
-C) \( \frac{14}{3} \)  
-D) \( 4 \dfrac{1}{15} \)  
+A) \$112.50  
+B) \$120.00  
+C) \$135.00  
+D) \$150.00 
 
 ---
 
