@@ -2,7 +2,7 @@
 
 ---
 
-#### **🔢 Ejercicio 16**  
+#### **🔢 Ejercicio 1**  
 **📝 Resuelve la ecuación cuadrática:**  
 $$x^2 - 5x + 6 = 0$$  
 
@@ -15,20 +15,20 @@ $$x^2 - 5x + 6 = 0$$
 
 ---
 
-#### **🔢 Ejercicio 17**  
+#### **🔢 Ejercicio 2**  
 **📝 Simplifica la expresión racional:**  
 $$\frac{x^2 - 9}{x^2 + 4x + 3}$$  
 
-- [ ] A) $\frac{x - 3}{x + 1}$  
-- [x] B) $\frac{x - 3}{x + 3}$  
+- [x] A) $\frac{x - 3}{x + 1}$  
+- [ ] B) $\frac{x - 3}{x + 3}$  
 - [ ] C) $\frac{x + 3}{x - 1}$  
 - [ ] D) $\frac{x - 9}{x + 3}$  
 
-**✅ Respuesta correcta:** **B**  
+**✅ Respuesta correcta:** **A**  
 
 ---
 
-#### **🔢 Ejercicio 18**  
+#### **🔢 Ejercicio 3**  
 **📝 Resuelve el valor absoluto:**  
 $$|2x - 5| = 11$$  
 
@@ -41,7 +41,7 @@ $$|2x - 5| = 11$$
 
 ---
 
-#### **🔢 Ejercicio 19**  
+#### **🔢 Ejercicio 4**  
 **📝 Encuentra la ecuación de la recta que pasa por (1, 2) y (3, 8):**  
 
 - [ ] A) $y = 2x$  
@@ -53,7 +53,7 @@ $$|2x - 5| = 11$$
 
 ---
 
-#### **🔢 Ejercicio 20**  
+#### **🔢 Ejercicio 5**  
 **📝 Resuelve la desigualdad compuesta:**  
 $$-4 \leq 2x - 6 < 8$$  
 
