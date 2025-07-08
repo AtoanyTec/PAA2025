@@ -38,3 +38,25 @@
 
 
 ---
+
+#### **🔢 Ejercicio 4**  
+**📝 Un punto se ubica en la posición (3, 1) en el plano cartesiano, el punto se mueve tres unidades para arriba, luego se mueve tres unidades a la derecha y finalmente se mueve cinco unidades hacia arriba. ¿En qué posición queda finalmente el punto?**  
+
+- [ ] A) (6,0)
+- [ ] B) (5,0) 
+- [ ] C) (6,-1)
+- [x] D) (6,9)
+
+
+---
+
+#### **🔢 Ejercicio 5**  
+**📝 Para la siguiente figura, $y^\circ$ + $z^\circ$ = $140^\circ$, $m\angle x^\circ es:$**  
+
+- [ ] A) $20^\circ$
+- [x] B) $40^\circ$ 
+- [ ] C) $70^\circ$
+- [ ] D) $80^\circ$
+
+
+---
