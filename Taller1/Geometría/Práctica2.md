@@ -37,6 +37,8 @@
 
 #### **🔢 Ejercicio 4**  
 **📝 En el rectángulo, DC = 12 m y AD = 8. Calcula el área de la región sombreada**  
+![imagen](https://github.com/user-attachments/assets/a18e2a7e-7b80-4037-9107-d44233e56ddc)
+
 
 - [ ] A) 32 
 - [x] B) 48
