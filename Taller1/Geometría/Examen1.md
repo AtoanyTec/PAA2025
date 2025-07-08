@@ -29,7 +29,7 @@
 
 #### **🔢 Ejercicio 3**  
 **📝 En la figura, $m\angle 2=55^\circ$, ¿cuánto mide la suma de los ángulos 5 y 8?.**  
-![imagen](https://github.com/user-attachments/assets/b1d672df-781f-4f07-8942-38a616c0490b)
+![imagen](https://github.com/user-attachments/assets/d5f79d55-eace-4c6c-8b61-27ab3fde2092)
 
 - [ ] A) $125^\circ$
 - [ ] B) $180^\circ$ 
