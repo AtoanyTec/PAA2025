@@ -52,6 +52,7 @@
 
 #### **🔢 Ejercicio 5**  
 **📝 Para la siguiente figura, $y^\circ$ + $z^\circ$ = $140^\circ$, $m\angle x^\circ es:$**  
+![imagen](https://github.com/user-attachments/assets/cad90b69-7bb9-4372-a0d2-2b8c4438273e)
 
 - [ ] A) $20^\circ$
 - [x] B) $40^\circ$ 
