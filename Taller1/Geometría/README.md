@@ -6,3 +6,12 @@ La geometría es una rama de las matemáticas que estudia las propiedades y rela
 * 🔺 Geometría plana (Euclidiana): Estudia figuras bidimensionales como triángulos, cuadrados y círculos.
 * 🛸 Geometría espacial: Analiza objetos tridimensionales como cubos, esferas y pirámides.
 * 📊 Geometría analítica: Combina álgebra y geometría usando coordenadas para representar figuras
+
+## 🛠️ Uso de la Geometría
+La geometría tiene aplicaciones prácticas en:
+✅ 🏗️ Arquitectura e ingeniería: Diseño de estructuras, cálculo de áreas y volúmenes.
+✅ 🚀 Física y astronomía: Trayectorias de objetos, formas planetarias.
+✅ 🎨 Diseño gráfico y animación: Creación de modelos 3D.
+✅ 🧭 Navegación y cartografía: Uso de coordenadas y distancias.
+
+
