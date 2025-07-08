@@ -113,12 +113,12 @@
 ---
 
 #### **🔢 Ejercicio 10**  
-**📝 PS es el diámetro del semicírculo. $\overline{PS} = 2$**  
-![imagen](https://github.com/user-attachments/assets/564f5d2e-d517-41d1-bb61-1e4d600cbbe8)
+**📝 PS es el diámetro del semicírculo. $\overline{PS} = 2$. El área sobreada del cuadrado PQRS es:**  
+![imagen](https://github.com/user-attachments/assets/16674d9f-a879-459c-aee4-ff24a888702a)
 
 
-- [x] A) 30
-- [ ] B) 45
+- [ ] A) $4-2\pi$
+- [x] B) 45
 - [ ] C) 60
 - [ ] D) 75
 
