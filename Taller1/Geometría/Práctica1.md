@@ -6,7 +6,7 @@
 **📝 Encuentra $m\angle A$**  
 ![imagen](https://github.com/user-attachments/assets/8975dccf-8c94-43bb-af3b-d67698f647f4)
 
-- [ ] A) $\( 60^\circ \)$   
+- [ ] A) 20   
 - [x] B) 30  
 - [ ] C) 40 
 - [ ] D) 60  
@@ -18,7 +18,7 @@
 ![imagen](https://github.com/user-attachments/assets/4947bd37-c7fb-445f-b761-0d9d1926bb03)
 
 
-- [ ] A) 20  
+- [ ] A) $\( 60^\circ \)$   
 - [x] B) 30  
 - [ ] C) 40 
 - [ ] D) 60  
