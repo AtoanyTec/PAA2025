@@ -100,7 +100,7 @@
 ---
 
 #### **🔢 Ejercicio 9**  
-**📝 De acuerdo con la figura, $m\angle x^\circ$ = $m\angle y^\circ$. Si $m\angle x^\circ$=$60^\circ$, $m\angle z^\circ$ es:**  
+**📝 De acuerdo con la figura, $m\angle x^\circ$ = $m\angle y^\circ$. Si $m\angle x^\circ$=60^\circ$, $m\angle z^\circ$ es:**  
 ![imagen](https://github.com/user-attachments/assets/564f5d2e-d517-41d1-bb61-1e4d600cbbe8)
 
 
