@@ -61,3 +61,66 @@
 
 
 ---
+
+#### **🔢 Ejercicio 6**  
+**📝 En la figura, ¿cuál es el valor del $m\angle a^\circ$?**  
+![imagen](https://github.com/user-attachments/assets/e4f188b3-bca2-4868-adda-873257965d41)
+
+- [ ] A) $30^\circ$
+- [ ] B) $60^\circ$ 
+- [ ] C) $120^\circ$
+- [x] D) $150^\circ$
+
+
+---
+
+#### **🔢 Ejercicio 7**  
+**📝 Analiza la siguiente figura. ¿Cuál es el valor de $x+y$?**  
+![imagen](https://github.com/user-attachments/assets/0c79aca7-29e3-467f-8133-97931932b6fb)
+
+- [x] A) 20
+- [ ] B) 25
+- [ ] C) 30
+- [ ] D) 40
+
+
+---
+
+#### **🔢 Ejercicio 8**  
+**📝 En la figura, $m\angle x^\circ$ es:**  
+![imagen](https://github.com/user-attachments/assets/540b97fc-ad3f-4e58-9c85-98efc253ced5)
+
+
+- [ ] A) 70
+- [ ] B) 80
+- [ ] C) 120
+- [x] D) 130
+
+
+---
+
+#### **🔢 Ejercicio 9**  
+**📝 De acuerdo con la figura, $m\angle x^\circ$ = $m\angle y^\circ$. Si $m\angle x^\circ$=$60^\circ$, $m\angle z^\circ$ es:**  
+![imagen](https://github.com/user-attachments/assets/564f5d2e-d517-41d1-bb61-1e4d600cbbe8)
+
+
+- [x] A) 30
+- [ ] B) 45
+- [ ] C) 60
+- [ ] D) 75
+
+
+---
+
+#### **🔢 Ejercicio 10**  
+**📝 PS es el diámetro del semicírculo. $\overline{PS} = 2$**  
+![imagen](https://github.com/user-attachments/assets/564f5d2e-d517-41d1-bb61-1e4d600cbbe8)
+
+
+- [x] A) 30
+- [ ] B) 45
+- [ ] C) 60
+- [ ] D) 75
+
+
+---
