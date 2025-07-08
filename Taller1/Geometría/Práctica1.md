@@ -38,20 +38,8 @@
 
 ---
 
+
 #### **🔢 Ejercicio 4**  
-**📝 ¿Cuánto mide el $m\angle x$**  
-
-![imagen](https://github.com/user-attachments/assets/24ad84f4-757d-4707-a23c-07a2afd3c9d8)
-
-
-- [ ] A) 45 
-- [x] B) 60 
-- [ ] C) 65 
-- [ ] D) 70 
-
----
-
-#### **🔢 Ejercicio 5**  
 **📝 Determinar la distancia entre los puntos A(4,3) y B(2,1)**  
 
 - [ ] A) 4 
