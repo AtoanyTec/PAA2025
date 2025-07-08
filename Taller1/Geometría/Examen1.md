@@ -26,3 +26,15 @@
 
 
 ---
+
+#### **🔢 Ejercicio 3**  
+**📝 En la figura, $m\angle 2=55^\circ$.**  
+![imagen](https://github.com/user-attachments/assets/b1d672df-781f-4f07-8942-38a616c0490b)
+
+- [x] A) área= $x^2-9$, perímetro= $4x$  
+- [ ] B) área= $x^2-9$, perímetro= $x^2+4$ 
+- [ ] C) área= $x^2+9$, perímetro= $4x$ 
+- [ ] D) área= $x^2+9$, perímetro= $x^2-4$ 
+
+
+---
