@@ -25,6 +25,8 @@
 
 #### **🔢 Ejercicio 3**  
 **📝 $O$ es el centro del círculo con radio 6. ¿Cuál es el área del triángulo?**  
+![imagen](https://github.com/user-attachments/assets/9ee4d049-5afa-440a-8548-831e4da00f77)
+
 
 - [ ] A) 9 
 - [ ] B) 12
