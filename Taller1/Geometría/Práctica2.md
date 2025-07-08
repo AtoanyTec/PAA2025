@@ -3,7 +3,7 @@
 ---
 
 #### **🔢 Ejercicio 1**  
-**📝 En la figura, el perímetor del triangulo es 20. ¿Cuál es el valor del lado mayor?**  
+**📝 En la figura, el perímetro del triangulo es 20. ¿Cuál es el valor del lado mayor?**  
 ![imagen](https://github.com/user-attachments/assets/aa679890-9a41-4a0f-b240-8da89780f5d7)
 
 - [ ] A) 8   
