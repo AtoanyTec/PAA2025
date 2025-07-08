@@ -24,4 +24,17 @@
 - [ ] D) $360^\circ$  
 
 ---
+
+#### **🔢 Ejercicio 3**  
+**📝 ¿Cuánto mide el $m\angle y$**  
+
+![imagen](https://github.com/user-attachments/assets/0e674195-2283-44e2-925a-b9190009b60f)
+
+
+- [ ] A) 45 
+- [ ] B) 60 
+- [x] C) 65 
+- [ ] D) 70 
+
+---
   
