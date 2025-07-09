@@ -8,7 +8,7 @@
 
 
 - [ ] A) 6  
-- [x] B) 7 
+- [ ] B) 7 
 - [ ] C) 8  
 - [ ] D) 9  
 
@@ -19,7 +19,7 @@
 **📝 Encuentra área y perímetro de la siguiente figura.**  
 ![imagen](https://github.com/user-attachments/assets/b1d672df-781f-4f07-8942-38a616c0490b)
 
-- [x] A) área= $x^2-9$, perímetro= $4x$  
+- [ ] A) área= $x^2-9$, perímetro= $4x$  
 - [ ] B) área= $x^2-9$, perímetro= $x^2+4$ 
 - [ ] C) área= $x^2+9$, perímetro= $4x$ 
 - [ ] D) área= $x^2+9$, perímetro= $x^2-4$ 
@@ -33,7 +33,7 @@
 
 - [ ] A) $125^\circ$
 - [ ] B) $180^\circ$ 
-- [x] C) $250^\circ$
+- [ ] C) $250^\circ$
 - [ ] D) $360^\circ$
 
 
@@ -45,7 +45,7 @@
 - [ ] A) (6,0)
 - [ ] B) (5,0) 
 - [ ] C) (6,-1)
-- [x] D) (6,9)
+- [ ] D) (6,9)
 
 
 ---
@@ -55,7 +55,7 @@
 ![imagen](https://github.com/user-attachments/assets/cad90b69-7bb9-4372-a0d2-2b8c4438273e)
 
 - [ ] A) $20^\circ$
-- [x] B) $40^\circ$ 
+- [ ] B) $40^\circ$ 
 - [ ] C) $70^\circ$
 - [ ] D) $80^\circ$
 
@@ -69,7 +69,7 @@
 - [ ] A) $30^\circ$
 - [ ] B) $60^\circ$ 
 - [ ] C) $120^\circ$
-- [x] D) $150^\circ$
+- [ ] D) $150^\circ$
 
 
 ---
@@ -78,7 +78,7 @@
 **📝 Analiza la siguiente figura. ¿Cuál es el valor de $x+y$?**  
 ![imagen](https://github.com/user-attachments/assets/0c79aca7-29e3-467f-8133-97931932b6fb)
 
-- [x] A) 20
+- [ ] A) 20
 - [ ] B) 25
 - [ ] C) 30
 - [ ] D) 40
@@ -94,7 +94,7 @@
 - [ ] A) 70
 - [ ] B) 80
 - [ ] C) 120
-- [x] D) 130
+- [ ] D) 130
 
 
 ---
@@ -104,7 +104,7 @@
 ![imagen](https://github.com/user-attachments/assets/564f5d2e-d517-41d1-bb61-1e4d600cbbe8)
 
 
-- [x] A) 30
+- [ ] A) 30
 - [ ] B) 45
 - [ ] C) 60
 - [ ] D) 75
@@ -118,7 +118,7 @@
 
 
 - [ ] A) $4-2\pi$
-- [x] B) $4-\pi$
+- [ ] B) $4-\pi$
 - [ ] C) $4-\pi\/2$
 - [ ] D) $2-\pi$
 
