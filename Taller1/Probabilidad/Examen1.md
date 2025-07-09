@@ -78,3 +78,36 @@
 - [ ] D) 1  
 
 ---
+
+#### **🔢 Ejercicio 8**  
+**📝    En una bolsa hay 3 canicas rojas, 2 verdes y 4 azules. Si se extraen dos canicas sin reemplazo, ¿cuál es la probabilidad de que ambas sean azules?**  
+
+
+- [ ] A) $\frac{1}{6}$     
+- [ ] B) $\frac{2}{9}$    
+- [ ] C) $\frac{4}{9}$ 
+- [ ] D) $\frac{1}{3}$ 
+
+---
+
+#### **🔢 Ejercicio 9**  
+**📝   En una encuesta, el 60% de las personas prefiere el té, el 40% prefiere el café y el 20% prefiere ambos. Si se selecciona una persona al azar, ¿cuál es la probabilidad de que prefiera solo café?**  
+
+
+- [ ] A) 0.2    
+- [ ] B) 0.4   
+- [ ] C) 0.6 
+- [ ] D) 0.8
+
+---
+
+#### **🔢 Ejercicio 10**  
+**📝   Un restaurante ofrece 3 tipos de pasta (espagueti, lasaña, ravioles) y 2 tipos de salsa (blanca, roja). Si un cliente elige al azar un plato de pasta con una salsa, ¿cuál es la probabilidad de que elija lasaña con salsa roja?**  
+
+
+- [ ] A) $\frac{1}{6}$    
+- [ ] B) $\frac{1}{3}$
+- [ ] C) $\frac{1}{2}$
+- [ ] D) $\frac{2}{3}$
+
+---
